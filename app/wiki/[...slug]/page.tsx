@@ -65,6 +65,8 @@ function getMapConfig(slug: string[]): MapConfig | null {
 
 // ── Header image injection ────────────────────────────────────────────────────
 
+const BP = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
+
 interface HeaderImage {
   src: string
   alt: string
@@ -78,29 +80,29 @@ interface RegionalMap {
 
 const HEADER_IMAGES: Record<string, HeaderImage> = {
   // Blasones — Vornidas nations (200px)
-  'brennakhar':  { src: '/images/Blasones/Control/Brennakhar.png',  alt: 'Blasón de Brennakhar',  maxWidth: 200 },
-  'gholnekrath': { src: '/images/Blasones/Control/Gholnekrath.png', alt: 'Blasón de Gholnekrath', maxWidth: 200 },
-  'kaldrymor':   { src: '/images/Blasones/Control/Kaldrymor.png',   alt: 'Blasón de Kaldrymor',   maxWidth: 200 },
-  'thaerevorn':  { src: '/images/Blasones/Control/Thaerevorn.png',  alt: 'Blasón de Thaerevorn',  maxWidth: 200 },
+  'brennakhar':  { src: `${BP}/images/Blasones/Control/Brennakhar.png`,  alt: 'Blasón de Brennakhar',  maxWidth: 200 },
+  'gholnekrath': { src: `${BP}/images/Blasones/Control/Gholnekrath.png`, alt: 'Blasón de Gholnekrath', maxWidth: 200 },
+  'kaldrymor':   { src: `${BP}/images/Blasones/Control/Kaldrymor.png`,   alt: 'Blasón de Kaldrymor',   maxWidth: 200 },
+  'thaerevorn':  { src: `${BP}/images/Blasones/Control/Thaerevorn.png`,  alt: 'Blasón de Thaerevorn',  maxWidth: 200 },
   // Blasones — Vael nations (200px)
-  'draevorn': { src: '/images/Blasones/Flujo/Draevorn.png',  alt: 'Blasón de Draevorn',  maxWidth: 200 },
-  'nhaelorn': { src: '/images/Blasones/Flujo/Nhaelorn.png',  alt: 'Blasón de Nhaelorn',  maxWidth: 200 },
-  'sylvareth': { src: '/images/Blasones/Flujo/Sylvareth.png', alt: 'Blasón de Sylvareth', maxWidth: 200 },
-  'vaenmoor':  { src: '/images/Blasones/Flujo/Vaenmoor.png',  alt: 'Blasón de Vaenmoor',  maxWidth: 200 },
+  'draevorn':  { src: `${BP}/images/Blasones/Flujo/Draevorn.png`,  alt: 'Blasón de Draevorn',  maxWidth: 200 },
+  'nhaelorn':  { src: `${BP}/images/Blasones/Flujo/Nhaelorn.png`,  alt: 'Blasón de Nhaelorn',  maxWidth: 200 },
+  'sylvareth': { src: `${BP}/images/Blasones/Flujo/Sylvareth.png`, alt: 'Blasón de Sylvareth', maxWidth: 200 },
+  'vaenmoor':  { src: `${BP}/images/Blasones/Flujo/Vaenmoor.png`,  alt: 'Blasón de Vaenmoor',  maxWidth: 200 },
   // Portraits — races (300px)
-  'los-ruhnkai-original': { src: '/images/Retratos/Razas/Neutral/Rhunkai.png', alt: 'Retrato Ruhnkai', maxWidth: 300 },
+  'los-ruhnkai-original': { src: `${BP}/images/Retratos/Razas/Neutral/Rhunkai.png`, alt: 'Retrato Ruhnkai', maxWidth: 300 },
 }
 
 // Regional maps — exact filenames from public/images/Mapas/Reinos - Ciudades/
 const REGIONAL_MAPS: Record<string, RegionalMap> = {
-  'brennakhar':  { src: '/images/Mapas/Reinos - Ciudades/Control/Brennakhar.png',       alt: 'Mapa regional de Brennakhar'  },
-  'gholnekrath': { src: '/images/Mapas/Reinos - Ciudades/Control/Gholnekrath.png',      alt: 'Mapa regional de Gholnekrath' },
-  'kaldrymor':   { src: '/images/Mapas/Reinos - Ciudades/Control/Kaldrymor Regional.png', alt: 'Mapa regional de Kaldrymor' },
-  'thaerevorn':  { src: '/images/Mapas/Reinos - Ciudades/Control/Tharevorn.png',        alt: 'Mapa regional de Thaerevorn'  },
-  'draevorn':    { src: '/images/Mapas/Reinos - Ciudades/Flujo/Dreavorn.png',           alt: 'Mapa regional de Draevorn'    },
-  'nhaelorn':    { src: '/images/Mapas/Reinos - Ciudades/Flujo/Nhaelorn.png',           alt: 'Mapa regional de Nhaelorn'    },
-  'sylvareth':   { src: '/images/Mapas/Reinos - Ciudades/Flujo/Sylvareth.png',          alt: 'Mapa regional de Sylvareth'   },
-  'vaenmoor':    { src: '/images/Mapas/Reinos - Ciudades/Flujo/Vaenmoor.png',           alt: 'Mapa regional de Vaenmoor'    },
+  'brennakhar':  { src: `${BP}/images/Mapas/Reinos - Ciudades/Control/Brennakhar.png`,        alt: 'Mapa regional de Brennakhar'  },
+  'gholnekrath': { src: `${BP}/images/Mapas/Reinos - Ciudades/Control/Gholnekrath.png`,       alt: 'Mapa regional de Gholnekrath' },
+  'kaldrymor':   { src: `${BP}/images/Mapas/Reinos - Ciudades/Control/Kaldrymor Regional.png`, alt: 'Mapa regional de Kaldrymor'  },
+  'thaerevorn':  { src: `${BP}/images/Mapas/Reinos - Ciudades/Control/Tharevorn.png`,         alt: 'Mapa regional de Thaerevorn'  },
+  'draevorn':    { src: `${BP}/images/Mapas/Reinos - Ciudades/Flujo/Dreavorn.png`,            alt: 'Mapa regional de Draevorn'    },
+  'nhaelorn':    { src: `${BP}/images/Mapas/Reinos - Ciudades/Flujo/Nhaelorn.png`,            alt: 'Mapa regional de Nhaelorn'    },
+  'sylvareth':   { src: `${BP}/images/Mapas/Reinos - Ciudades/Flujo/Sylvareth.png`,           alt: 'Mapa regional de Sylvareth'   },
+  'vaenmoor':    { src: `${BP}/images/Mapas/Reinos - Ciudades/Flujo/Vaenmoor.png`,            alt: 'Mapa regional de Vaenmoor'    },
 }
 
 function getHeaderImage(slug: string[]): HeaderImage | null {

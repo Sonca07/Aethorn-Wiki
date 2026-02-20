@@ -16,7 +16,8 @@ import type { MapMarkerWithHighlight, MarkerType, MarkerFaction } from '@/lib/ma
 
 // ── Map constants ─────────────────────────────────────────────────────────────
 
-const IMAGE_URL = '/images/Mapas/Mapa Aethorn.png'
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
+const IMAGE_URL = `${BASE_PATH}/images/Mapas/Mapa Aethorn.png`
 // Coordinate space matches the user-verified 865×580 layout grid.
 // The ImageOverlay stretches the PNG to fill these bounds — aspect
 // ratios are ~1:1.49 vs 1:1.50 so distortion is negligible.

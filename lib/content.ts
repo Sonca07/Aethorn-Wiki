@@ -116,7 +116,8 @@ function buildImageMap(dir: string, base: string): void {
       // First occurrence wins — prevents regional map duplicates from overwriting blasones
       if (!_imageMap!.has(key)) {
         const rel = path.relative(base, full).replace(/\\/g, '/')
-        _imageMap!.set(key, '/images/' + rel)
+        const bp = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
+        _imageMap!.set(key, bp + '/images/' + rel)
       }
     }
   }
@@ -326,7 +327,8 @@ function resolveObsidian(content: string): string {
     /!\[\[([^\]]+\.(png|jpe?g|gif|webp|svg))\]\]/gi,
     (_, filename: string) => {
       const basename = path.basename(filename)
-      const src = _imageMap!.get(basename.toLowerCase()) ?? `/images/${basename}`
+      const bp = process.env.NEXT_PUBLIC_BASE_PATH ?? ''
+      const src = _imageMap!.get(basename.toLowerCase()) ?? `${bp}/images/${basename}`
       // URL-encode spaces so remark parses paths like "Reinos - Ciudades/..." correctly
       const encodedSrc = src.replace(/ /g, '%20')
       return `![${basename}](${encodedSrc})`
