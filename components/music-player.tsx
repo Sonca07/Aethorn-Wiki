@@ -42,8 +42,8 @@ interface YTPlayer {
 // Constants
 // ---------------------------------------------------------------------------
 
-const VIDEO_ID   = 'TAnoryONNWI'
-const PLAYLIST   = 'RDTAnoryONNWI'
+const VIDEO_ID   = 'uya4RralZ20'
+const PLAYLIST   = 'uya4RralZ20'
 const LS_KEY     = 'aethorn-music-playing'
 const MOUNT_ID   = 'aethorn-yt-mount'
 
@@ -80,8 +80,7 @@ export default function MusicPlayer() {
         playerVars: {
           autoplay:    1,
           loop:        1,
-          list:        PLAYLIST,
-          listType:    'playlist',
+          playlist:    PLAYLIST,  // same as VIDEO_ID — required for single-video loop
           controls:    0,
           disablekb:   1,
           fs:          0,
