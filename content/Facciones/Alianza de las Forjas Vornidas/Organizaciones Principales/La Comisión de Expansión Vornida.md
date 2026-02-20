@@ -1,0 +1,1 @@
+Organismo dedicado a llevar la infraestructura de la Alianza a territorios nuevos: tender vías de tren, establecer postas de comunicación, abrir rutas comerciales. Frecuentemente chocan con poblaciones locales o con zonas de influencia mágica.

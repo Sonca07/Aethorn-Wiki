@@ -1,0 +1,1 @@
+El órgano de deliberación de la Confluencia, formado por un representante de cada escuela reconocida. Se reúne cada cierto número de años en una ciudad neutral rotativa. Sus decisiones no son vinculantes para las escuelas individuales, lo que es fuente constante de fricciones.

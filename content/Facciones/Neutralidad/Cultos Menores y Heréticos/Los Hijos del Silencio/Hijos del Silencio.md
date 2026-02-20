@@ -1,0 +1,1 @@
+Culto principalmente Vaekren que venera el momento del Silencio que privó a su raza de la creatividad. No lo consideran una maldición sino un sacrificio sagrado que su raza hizo inconscientemente para preservar algo más importante, algo que todavía no saben qué es. Su práctica religiosa consiste en buscar ese algo en las zonas Terra Incognita del mapa.

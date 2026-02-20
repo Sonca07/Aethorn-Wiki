@@ -1,0 +1,5 @@
+La nación más antigua de Aethorn según sus propios registros, hogar histórico de los Sylvari. Es el centro filosófico y tradicional de la Confluencia, donde se encuentran las escuelas mágicas más antiguas. Su influencia no viene del poder militar ni económico sino del peso moral e histórico que representa.
+_Capital y geografía:_ Capital Vaelthis, ciudad construida en simbiosis con un bosque milenario, con edificios que crecen de árboles vivos manipulados mágicamente durante siglos. Ubicada en una zona de bosques densos atravesados por ríos de agua cristalina con alta concentración de Vael. _Razas predominantes:_ Sylvari, Vaelborn, Thael.
+_Gobierno:_ Consejo de Ancianos formado por los magos de mayor edad de cada escuela establecida en el territorio, con decisiones por consenso obligatorio.
+
+![[Sylvareth.png]]

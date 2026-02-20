@@ -1,0 +1,1 @@
+Culto apocalíptico basado en la teoría de que el Vael se está retirando gradualmente del mundo. Veneran este proceso como inevitable y sagrado, y consideran que intentar detenerlo es una blasfemia. Los Vaenari los ignoran oficialmente pero algunos han sido vistos en sus reuniones.

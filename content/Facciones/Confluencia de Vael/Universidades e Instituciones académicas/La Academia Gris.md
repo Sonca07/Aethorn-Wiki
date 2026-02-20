@@ -1,0 +1,1 @@
+Escuela controversial que estudia magia de nigromancia y entropía bajo el argumento de que la muerte y el decaimiento son también parte del Flujo. Tolerada por la Confluencia pero con vigilancia permanente. Perfecta para campañas con tintes oscuros.

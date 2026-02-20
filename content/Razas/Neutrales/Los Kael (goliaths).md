@@ -1,0 +1,3 @@
+Humanoides de gran estatura que habitan las cordilleras y zonas montañosas de Aethorn, territorios que ninguna facción ha podido reclamar completamente por su terreno hostil. Los Kael tienen una cultura basada en la autosuficiencia y el mérito individual, donde el rango social se gana con hechos concretos y se pierde con la misma facilidad. No rechazan ideológicamente ni la tecnología ni la magia, simplemente adoptan lo que les resulta útil en el momento. Ambas facciones los respetan pero ninguna los comprende del todo, lo que los convierte en aliados valiosos y poco predecibles.
+
+![[Kael.png]]

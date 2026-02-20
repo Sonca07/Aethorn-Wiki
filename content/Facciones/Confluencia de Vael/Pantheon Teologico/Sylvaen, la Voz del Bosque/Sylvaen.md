@@ -1,0 +1,1 @@
+_Diosa de la naturaleza, los ciclos y la memoria viviente._ La más antigua del panteón de la Confluencia según los registros Sylvari, que la veneran desde antes de la Fractura. Representada como una Sylvari anciana cuyos cabellos son raíces y cuya piel es corteza de árbol. Es la patrona de las escuelas que estudian el Vael a través de la naturaleza y los ciclos estacionales.

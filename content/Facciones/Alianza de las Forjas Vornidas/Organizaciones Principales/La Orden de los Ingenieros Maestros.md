@@ -1,0 +1,1 @@
+Gremio de élite que certifica y regula a los ingenieros de mayor rango en Aethorn. Tener su sello es sinónimo de prestigio y acceso a contratos con los grandes estados. También funcionan como árbitros en disputas técnicas entre naciones.

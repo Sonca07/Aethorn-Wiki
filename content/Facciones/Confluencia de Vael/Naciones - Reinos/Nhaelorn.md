@@ -1,0 +1,5 @@
+Nación fundada por los Nhaeli como territorio propio después de siglos de existir como comunidades dispersas y marginadas. Es la más joven de la Confluencia y la más internamente compleja, ya que carga con la historia oscura de los experimentos que crearon su linaje. Tiene una relación ambivalente con el conocimiento arcano, lo busca obsesivamente pero también lo teme. _Capital y geografía:_ Capital Cendraleth, ciudad construida en un valle rodeado de acantilados que la aíslan naturalmente del exterior. La arquitectura es austera pero con detalles de una belleza fría y precisa. El territorio circundante tiene zonas de alta anomalía mágica producto de experimentos históricos no resueltos.
+_Razas predominantes:_ Nhaeli, Tharven, Vaekren. 
+_Gobierno:_ República académica donde el poder recae en la Asamblea de los Legados, representantes electos de cada linaje Nhaeli reconocido históricamente.
+
+![[Nhaelorn.png]]

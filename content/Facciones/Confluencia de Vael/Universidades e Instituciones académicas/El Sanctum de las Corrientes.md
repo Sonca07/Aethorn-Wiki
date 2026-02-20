@@ -1,0 +1,1 @@
+Escuela enfocada en magia de adivinación y viaje entre planos. Sus estudiantes aprenden a "leer" el Vael como si fuera un río con corrientes predecibles. Tienen fama de excéntricos y de saber cosas que no deberían saber.

@@ -1,0 +1,1 @@
+Institución dedicada específicamente al estudio científico del aether como recurso natural y energético. Aquí es donde la línea entre tecnología y magia empieza a difuminarse, algo que incomoda a los sectores más conservadores de la Alianza.

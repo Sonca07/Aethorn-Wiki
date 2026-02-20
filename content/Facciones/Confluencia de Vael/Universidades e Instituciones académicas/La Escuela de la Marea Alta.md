@@ -1,0 +1,1 @@
+La más antigua y tradicional de las escuelas mágicas, especializada en magia de transmutación y conjuración. Considera que el Vael debe ser respetado más que usado, y tiene una relación filosófica casi religiosa con la magia.

@@ -1,0 +1,9 @@
+_"Aprender a caminar después de haber volado"_
+
+La era posterior a la Fractura fue de adaptación desesperada. Las razas que habían existido en simbiosis con el Vael tuvieron que aprender a buscarlo activamente por primera vez. Este esfuerzo produjo los dos grandes caminos que eventualmente derivarían en las facciones modernas.
+
+El primer camino fue el de la búsqueda interior. Los Sylvari y las comunidades más antiguas desarrollaron las primeras técnicas de meditación y ritual para reconectar con los nodos de Vael que permanecían activos en el mundo. Fue un proceso lento, generacional, y profundamente humilde, aprender que algo que antes era gratuito ahora tenía un costo. De aquí nacen las semillas de lo que eventualmente sería la Confluencia.
+
+El segundo camino fue el de la compensación externa. Las razas más jóvenes y pragmáticas, sin la memoria de lo que se había perdido, comenzaron a resolver los problemas prácticos de un mundo menos mágico con ingenio físico. Las primeras herramientas complejas, los primeros sistemas de irrigación, las primeras estructuras arquitecturales planificadas. No buscaban reemplazar el Vael sino simplemente sobrevivir sin él. De aquí nacen las semillas de lo que eventualmente sería la Alianza.
+
+El acontecimiento más importante de esta era es el descubrimiento de los **Cristales Aethéricos**, formaciones minerales que actúan como reservorios naturales de Vael concentrado. Su descubrimiento simultáneo por ambos caminos fue el primer gran punto de tensión de la historia de Aethorn, los primeros que comprendieron que querían lo mismo por razones completamente distintas.

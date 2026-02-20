@@ -1,0 +1,1 @@
+Más técnica y práctica que el Instituto, forma ingenieros de campo y especialistas en maquinaria de guerra y construcción. Tiene fama de producir los mejores inventores independientes de Aethorn.

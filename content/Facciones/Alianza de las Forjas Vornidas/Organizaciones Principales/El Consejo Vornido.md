@@ -1,0 +1,1 @@
+El cuerpo gobernante supremo de la Alianza, formado por representantes de cada nación miembro. Se reúne en sesiones formales para decidir tratados comerciales, estándares tecnológicos y respuestas a amenazas comunes. Políticamente tenso por naturaleza, es un lugar ideal para intrigas y conflictos de interés entre naciones.

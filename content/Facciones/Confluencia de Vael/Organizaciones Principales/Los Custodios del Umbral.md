@@ -1,0 +1,1 @@
+Organización dedicada a vigilar los lugares donde el Vael se manifiesta con mayor intensidad: ruinas antiguas, zonas de anomalía mágica, fronteras entre planos. Parte exploradores, parte guardianes, son un empleador natural para grupos de aventureros.

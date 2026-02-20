@@ -1,0 +1,3 @@
+Humanoides nacidos en zonas donde la concentración de Vael y la actividad industrial coexisten con tal intensidad que el ambiente mismo transformó a sus ancestros generación tras generación. Cada Aetheri manifiesta una afinidad elemental distinta, fuego, aire, tierra o agua, pero en Aethorn estas afinidades se expresan de forma híbrida: un Aetheri de fuego puede tener tanto la llama mágica como la comprensión instintiva de los motores de vapor. Filosóficamente no pertenecen a ninguna facción porque su propia existencia prueba que la dualidad Control vs Flujo es más permeable de lo que ambos lados admiten, algo que les genera tanto admiración como incomodidad de ambos lados.
+
+![[Aetheri.png]]

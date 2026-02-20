@@ -1,0 +1,5 @@
+Practicada principalmente por Varek, Thael, Kael y Aeryn, esta tradición religiosa no tiene dioses definidos sino una filosofía de vida basada en el respeto al umbral entre todas las cosas: entre la magia y la tecnología, entre la vida y la muerte, entre lo conocido y lo desconocido. Sus practicantes se llaman Umbrali y sus líderes espirituales Guardas del Paso.
+
+No construyen templos sino que mantienen lugares de cruce, puentes, fronteras entre territorios, entradas a ruinas antiguas, como espacios sagrados. Su influencia política es mayor de lo que su tamaño sugiere porque son frecuentemente convocados como mediadores neutrales en disputas entre facciones.
+
+Su texto sagrado no es un libro sino una colección de preguntas sin respuesta llamada **El Libro del Paso**, que se amplía con cada generación. La pregunta más antigua del libro, y la única que aparece en todas las copias conocidas, es: _"¿Qué había antes de que hubiera algo que preguntar?"_

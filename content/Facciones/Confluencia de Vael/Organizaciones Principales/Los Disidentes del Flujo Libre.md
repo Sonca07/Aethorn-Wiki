@@ -1,0 +1,1 @@
+Facción interna radical que cree que el Vael no debe ser organizado ni institucionalizado. Se oponen a la existencia misma de la Confluencia como estructura burocrática. Algunos son filósofos pacíficos, otros son activamente disruptivos.

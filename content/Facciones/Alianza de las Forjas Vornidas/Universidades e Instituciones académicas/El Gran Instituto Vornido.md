@@ -1,0 +1,1 @@
+La institución académica más prestigiosa de la Alianza, sede central en la capital industrial más importante. Abarca ingeniería mecánica, química, arquitectura y ciencias naturales. Sus graduados ocupan los puestos más altos del gobierno y la industria.

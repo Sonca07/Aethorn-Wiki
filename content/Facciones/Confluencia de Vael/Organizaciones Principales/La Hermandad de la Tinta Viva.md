@@ -1,0 +1,1 @@
+Gremio de escribas y archivistas mágicos que documentan el conocimiento arcano de todas las escuelas. Tienen acceso a información de casi todas las facciones y son estrictamente neutrales, lo que los hace valiosos e influyentes de maneras no obvias.

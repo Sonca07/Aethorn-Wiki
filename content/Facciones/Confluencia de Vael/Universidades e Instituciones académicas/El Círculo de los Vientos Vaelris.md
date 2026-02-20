@@ -1,0 +1,1 @@
+Escuela itinerante sin sede fija, sus maestros y estudiantes viajan constantemente. Creen que el conocimiento del Vael solo se obtiene en movimiento y experiencia directa, nunca en un aula. Son los más propensos a cooperar con aventureros.

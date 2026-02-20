@@ -1,0 +1,1 @@
+_Dios del comercio, los viajes y las rutas marítimas._ El más accesible y popular del panteón entre la gente común. Representado como un marinero con un sextante mecánico. No tiene grandes templos sino capillas pequeñas en cada puerto y estación de tren. Su culto es informal y pragmático, se le deja una moneda antes de un viaje y se le agradece al llegar.

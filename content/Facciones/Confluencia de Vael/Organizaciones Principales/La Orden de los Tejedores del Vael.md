@@ -1,0 +1,1 @@
+Magos especializados en la manipulación directa del flujo mágico a gran escala. Son respetados y temidos en igual medida. Dentro de la Confluencia funcionan como una especie de cuerpo de emergencia para fenómenos mágicos catastróficos.

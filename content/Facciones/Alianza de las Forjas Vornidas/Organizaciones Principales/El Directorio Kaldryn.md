@@ -1,0 +1,1 @@
+Agencia de inteligencia y seguridad de la Alianza. Investigan sabotajes industriales, espionaje tecnológico y amenazas a la infraestructura. Son pragmáticos y poco transparentes, lo que los hace moralmente grises y perfectos como empleadores de aventureros.

@@ -1,0 +1,1 @@
+Organización secreta que venera lo que ocurrió durante el Período Borrado del Imperio Vaelris como un evento sagrado deliberado. No saben exactamente qué fue, pero están convencidos de que fue necesario y de que debe repetirse. Tienen miembros en ambas facciones y son considerados peligrosos por ambas instituciones religiosas oficiales.
